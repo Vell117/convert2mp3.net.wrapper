@@ -1,6 +1,8 @@
 # convert2mp3.net.wrapper
 Convert2mp3.net .NET Wrapper
 
+**.NET Framework 4.0 required**
+
 ![image](https://user-images.githubusercontent.com/25367511/50703749-cedb6b00-105d-11e9-97ae-b8fe36b271da.png)
 
 # Library Usage
@@ -8,7 +10,7 @@ Convert2mp3.net .NET Wrapper
 // 1. Create Converter instance, set events and start process
 string url = "http://www.youtube.com/watch?v=Vhh_GeBPOhs";
 string format = "mp3";
- c2mp3 = new convert2mp3.Converter(url, format);
+c2mp3 = new convert2mp3.Converter(url, format);
 c2mp3.ConvertStart += C2mp3_ConvertStart;
 c2mp3.WhenConverted += C2mp3_WhenConverted;
 c2mp3.StartConverting();
