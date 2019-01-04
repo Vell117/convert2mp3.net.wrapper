@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "convert2mp3", "convert2mp3\convert2mp3.csproj", "{2D48C340-5C40-43FB-A971-B5974CF63674}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProgramUI", "ProgramUI\ProgramUI.csproj", "{0D79F483-26D1-4580-80BA-A61A1615AE4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D48C340-5C40-43FB-A971-B5974CF63674}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D48C340-5C40-43FB-A971-B5974CF63674}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D48C340-5C40-43FB-A971-B5974CF63674}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D48C340-5C40-43FB-A971-B5974CF63674}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D79F483-26D1-4580-80BA-A61A1615AE4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D79F483-26D1-4580-80BA-A61A1615AE4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D79F483-26D1-4580-80BA-A61A1615AE4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D79F483-26D1-4580-80BA-A61A1615AE4F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {480BD47B-6ADE-4922-B1C0-6FA33716EA00}
+	EndGlobalSection
+EndGlobal
