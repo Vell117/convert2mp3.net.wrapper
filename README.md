@@ -5,4 +5,4 @@ Convert2mp3.net .NET Wrapper
 
 (C) Dz3n 2019
 
-(C) sudo ./hack.sh 2019
+(C) [sudo ./hack.sh](https://www.youtube.com/channel/UCU40PNPpo8GBaWQwxtTCEQQ) 2019
