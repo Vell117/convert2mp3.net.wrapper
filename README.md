@@ -1,6 +1,8 @@
 # convert2mp3.net.wrapper
 Convert2mp3.net .NET Wrapper
 
+It's about hax, helps to avoid trash on http://convert2mp3.net and directrly convert & download files from their servers.
+
 **.NET Framework 4.0 required**
 
 ![image](https://user-images.githubusercontent.com/25367511/50703749-cedb6b00-105d-11e9-97ae-b8fe36b271da.png)
